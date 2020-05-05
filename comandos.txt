@@ -1,0 +1,23 @@
+area de comit - area de desarrollo (add) - area actual
+
+git init
+git add
+git status
+git commit
+git configure corre y nombre
+git log 
+git log --oneline
+git log pretty=format %...
+git rm/mv
+git diff 
+git diff --staged
+
+
+instalar el tkdiff
+git diftool
+
+git remote add origin https://...
+git fetch 
+git pull -v -a muestra cuales
+git pull origin master descargar
+git clone http://
